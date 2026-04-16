@@ -548,6 +548,11 @@
       await sleep(35);
     }
   }
+
+// Register service worker for instant repeat-visit caching
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/js/sw.js').catch(() => {});
+}
 </script>
 </body>
 </html>
