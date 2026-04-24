@@ -1,4 +1,4 @@
-[![mtype](https://mtype.mtgoals.cc/images/readme_picture.png)](https://mtype.mtgoals.cc/)
+[![mtype](https://mtype.mtgoals.cc/images/readme_picture.png)](https://mtype.cc/)
 <br />
 
 [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com)
@@ -11,12 +11,12 @@
 Create easy link-shorteners for Monkeytype profiles. E.g. ```mtype.cc/miodec```
 
 # Data Management
-We don't take any data from you, including your personal information such as legal name, house address, credit card numbers, etc... Monkeytype Goals is a website designed to help users track goals for the typing test website Monkeytype, so it would be quite pointless to add tracking
+We don't take any data from you, including your personal information such as legal name, house address, credit card numbers, etc... mtype is a website designed to to create link shorteners for Monkeytype profiles. Adding tracking is quite pointless, and we don't care about your VPN set to Tel Aviv.
 
 More information; [Privacy Policy page](https://www.mtgoals.cc/pages/policy)
 
 # Discord server
-We have a Discord server for our main project, 'Monkeytype Goals', but you can also speak about mtype there as well! go ahead and join by clicking [here](https://dsc.gg/mtgoals)
+You can join our Discord server, 'Monkeytype Projects' by clicking [here](https://dsc.gg/mtprojects)
 
 # License
-Our project uses the MIT License, to view the license, you can click [this](https://github.com/konatify/mtype/blob/main/LICENSE)
+Our project uses the MIT License, to view the license, you can click [this](https://github.com/kiirod/mtype/blob/main/LICENSE)
